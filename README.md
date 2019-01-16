@@ -16,3 +16,4 @@
 6.  Make all activity launch modes single top.
 7.  Use shared pref to save the make and model of the last car the user entered.  Print this in the log whenever mainActivity is created.
 
+There are screenshots in Issues.
